@@ -46,7 +46,7 @@ I use this GitHub as a **proof of work** — PRDs, prototypes, automations, and 
 
 ---
 
-*Currently: Associate Product Manager at Sprinto | Open to senior PM opportunities*
+
 
 <!--
 **yuvraj95/yuvraj95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
