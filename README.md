@@ -23,6 +23,7 @@ I use this GitHub as a **proof of work** — PRDs, prototypes, automations, and 
 | 📊 [Shared Evaluation Scorecard](https://github.com/yuvraj95/shared-evaluation-scorecard) | MVP design for B2B procurement vendor evaluation feature | [PRD](https://github.com/yuvraj95/shared-evaluation-scorecard/blob/main/prd.md) · [User Flows](https://github.com/yuvraj95/shared-evaluation-scorecard/blob/main/user-flows.md) · [Prototype](https://score-symphony-evaluations.lovable.app/) |
 | 🍱 [Meal Planner Concept](https://github.com/yuvraj95/meal-planner-concept) | Frontend-only prototype to validate healthy meal delivery UX and trust signals | [Problem](https://github.com/yuvraj95/meal-planner-concept/blob/main/problem-statement.md) · [Testing Plan](https://github.com/yuvraj95/meal-planner-concept/blob/main/testing-plan.md) · [Prototype](https://meal-flow-validator.lovable.app) |
 | ⚡ [PM Automations with Zapier](https://github.com/yuvraj95/ai-agents-automation) | End-to-end PM workflow automations using Zapier, Claude, Jira, Slack, HubSpot | [Jira Flow](https://github.com/yuvraj95/ai-agents-automation/blob/main/jira-release-workflow.md) · [Newsletter](https://github.com/yuvraj95/ai-agents-automation/blob/main/newsletter-automation.md) · [Routing](https://github.com/yuvraj95/ai-agents-automation/blob/main/ticket-routing.md) |
+| 🔍 [Multi-Agent Observability](https://github.com/yuvraj95/multi-agent-observability) | Product concept and prototype for observability of AI agent runs — execution graph, node logs, latency and token metrics, debugging workflows | [PRD](https://github.com/yuvraj95/multi-agent-observability/blob/main/prd.md) · [IA](https://github.com/yuvraj95/multi-agent-observability/blob/main/information-architecture.md) · [Prototype](https://agent-tracker-observability.replit.app/) |
 
 ---
 
@@ -44,4 +45,3 @@ I use this GitHub as a **proof of work** — PRDs, prototypes, automations, and 
 [![Email](https://img.shields.io/badge/Email-yuvraj95%40icloud.com-lightgrey?style=flat&logo=apple)](mailto:yuvraj95@icloud.com)
 
 ---
-
