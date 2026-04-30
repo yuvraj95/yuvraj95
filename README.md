@@ -45,4 +45,3 @@ I use this GitHub as a **proof of work** — PRDs, prototypes, automations, and 
 
 ---
 
-*Currently: Associate Product Manager at Sprinto | Open to senior PM opportunities*
