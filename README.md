@@ -1,6 +1,6 @@
 # Hi, I'm Yuvraj Gulati 👋
 
-**Product Manager** with 6+ years of experience building B2B SaaS, compliance tech, and AI-powered products.
+**Product Manager**  building B2B SaaS, compliance tech, and AI-powered products.
 
 I use this GitHub as a **proof of work** — PRDs, prototypes, automations, and product thinking made public.
 
