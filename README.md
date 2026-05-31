@@ -1,6 +1,6 @@
 # Hi, I'm Yuvraj Gulati 👋
 
-**Product Manager**  building B2B SaaS, compliance tech, and AI-powered products.
+**Product Manager** with overall 6+ years of experience building B2B SaaS and AI-powered products.
 
 I use this GitHub as a **proof of work** — PRDs, prototypes, automations, and product thinking made public.
 
@@ -19,11 +19,13 @@ I use this GitHub as a **proof of work** — PRDs, prototypes, automations, and 
 
 | Project | What It Is | Links |
 |---|---|---|
+| 🗂️ [Shortlist](https://github.com/yuvraj95/shortlist) | Vibe coded job discovery tool — resume-scored feed, persistent triage, universal search, and application drafts | [PRD](https://github.com/yuvraj95/shortlist/blob/main/prd.md) · [User Flows](https://github.com/yuvraj95/shortlist/blob/main/user-flows.md) · [Roadmap](https://github.com/yuvraj95/shortlist/blob/main/mvp-vs-roadmap.md) |
 | 🤖 [Sprinto AI Error Resolution Agent](https://github.com/yuvraj95/ai-error-resolution-agent) | AI-powered in-product fix agent for integration errors. 90% accuracy, 30% ticket reduction | [PRD](https://github.com/yuvraj95/ai-error-resolution-agent/blob/main/prd.md) · [Solution Design](https://github.com/yuvraj95/ai-error-resolution-agent/blob/main/solution-architecture.md) · [Impact](https://github.com/yuvraj95/ai-error-resolution-agent/blob/main/metrics-and-impact.md) |
 | 📊 [Shared Evaluation Scorecard](https://github.com/yuvraj95/shared-evaluation-scorecard) | MVP design for B2B procurement vendor evaluation feature | [PRD](https://github.com/yuvraj95/shared-evaluation-scorecard/blob/main/prd.md) · [User Flows](https://github.com/yuvraj95/shared-evaluation-scorecard/blob/main/user-flows.md) · [Prototype](https://score-symphony-evaluations.lovable.app/) |
 | 🍱 [Meal Planner Concept](https://github.com/yuvraj95/meal-planner-concept) | Frontend-only prototype to validate healthy meal delivery UX and trust signals | [Problem](https://github.com/yuvraj95/meal-planner-concept/blob/main/problem-statement.md) · [Testing Plan](https://github.com/yuvraj95/meal-planner-concept/blob/main/testing-plan.md) · [Prototype](https://meal-flow-validator.lovable.app) |
 | ⚡ [PM Automations with Zapier](https://github.com/yuvraj95/ai-agents-automation) | End-to-end PM workflow automations using Zapier, Claude, Jira, Slack, HubSpot | [Jira Flow](https://github.com/yuvraj95/ai-agents-automation/blob/main/jira-release-workflow.md) · [Newsletter](https://github.com/yuvraj95/ai-agents-automation/blob/main/newsletter-automation.md) · [Routing](https://github.com/yuvraj95/ai-agents-automation/blob/main/ticket-routing.md) |
 | 🔍 [Multi-Agent Observability](https://github.com/yuvraj95/multi-agent-observability) | Product concept and prototype for observability of AI agent runs — execution graph, node logs, latency and token metrics, debugging workflows | [PRD](https://github.com/yuvraj95/multi-agent-observability/blob/main/prd.md) · [IA](https://github.com/yuvraj95/multi-agent-observability/blob/main/information-architecture.md) · [Prototype](https://agent-tracker-observability.replit.app/) |
+| 🗂️ [Shortlist](https://github.com/yuvraj95/shortlist) | Vibe coded job discovery tool — resume-scored feed, persistent triage, universal search, and application drafts | [PRD](https://github.com/yuvraj95/shortlist/blob/main/prd.md) · [User Flows](https://github.com/yuvraj95/shortlist/blob/main/user-flows.md) · [Roadmap](https://github.com/yuvraj95/shortlist/blob/main/mvp-vs-roadmap.md) |
 
 ---
 
@@ -45,3 +47,5 @@ I use this GitHub as a **proof of work** — PRDs, prototypes, automations, and 
 [![Email](https://img.shields.io/badge/Email-yuvraj95%40icloud.com-lightgrey?style=flat&logo=apple)](mailto:yuvraj95@icloud.com)
 
 ---
+
+*Currently: Associate Product Manager at Sprinto | Open to senior PM opportunities*
